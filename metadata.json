@@ -1,0 +1,6 @@
+{
+  "name": "ApexSteel ERP - Steel Manufacturing & Operations Management System",
+  "description": "Enterprise management system for steel manufacturing companies tracking customers, steel products, SKU inventory, raw materials, production runs, sales orders, and suppliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
